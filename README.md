@@ -1,11 +1,4 @@
 
-
-## Documentation
-
-The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/?ref=readme-mdr).
-
-
-
 ```
 material-dashboard-react
     ├── public
